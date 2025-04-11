@@ -51,7 +51,7 @@ Each section includes queries and explanations.
 **Goal:** Rank employees by salary within their departments using `RANK()` and `DENSE_RANK()`.
 
 ### Query
-![image alt](
+![image alt](https://github.com/ngabo-kelly/TAG-TEAM/blob/826f0c06d9211f3d33ee77587c413f9801f78d78/SCREENSHOT%20OF%20DENSE()%20AND%20RANK().PNG)
 
 
 
