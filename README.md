@@ -10,7 +10,11 @@ For this project, we are using a fictional **Employee Salary Dataset**. The data
 - `employee_name` (VARCHAR)  
 - `department` (VARCHAR)  
 - `salary` (INT)  
-- `hire_date` (DATE)  
+- `hire_date` (DATE)
+
+    `THE SCREENSHOT OF DATASET THAT IS CREATED`
+  ![image alt](
+  
 
 This dataset simulates employee salary data across different departments and hiring timelines.
 
