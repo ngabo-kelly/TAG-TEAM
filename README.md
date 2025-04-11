@@ -84,7 +84,7 @@ Each section includes queries and explanations.
 **Goal:** Get the first **2 employees hired** in each department based on `hire_date`.
 
 ###  Query
-![image alt](
+![image alt](https://github.com/ngabo-kelly/TAG-TEAM/blob/860d446f63ddd6763ba3f1298502fea560684c43/SCREENSHOT%20OF%20FINDING%20EARLIEST%202%20EMPLOYEES%202.PNG)
 
 
 
