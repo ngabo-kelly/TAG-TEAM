@@ -35,7 +35,7 @@ Each section includes queries and explanations.
 **Goal:** Compare an employee's salary with the previous and next employee in terms of salary order within each department.
 
 ### Query
-![image alt](
+![image alt](https://github.com/ngabo-kelly/TAG-TEAM/blob/5cc3549d4d26ffdddf54699e0b5f706c09be2062/SCREENSHOT%20OF%20LAG()%20AND%20LEAD().PNG)
 
 
 
