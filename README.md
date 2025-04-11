@@ -102,7 +102,7 @@ Each section includes queries and explanations.
 - Overall maximum salary across all departments.
 
 ###  Query
-![image alt](
+![image alt](https://github.com/ngabo-kelly/TAG-TEAM/blob/3f234396e6caf3434c67b242bcaa8dc8428414e2/SCREENSHOT%20OF%20AGGREGATION.PNG)
 
 
 
