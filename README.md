@@ -68,7 +68,7 @@ Each section includes queries and explanations.
 **Goal:** Get the **Top 3 highest salaries** in each department.
 
 ### Query
-![image alt](
+![image alt](https://github.com/ngabo-kelly/TAG-TEAM/blob/7072dd42ac1304df8ab79e7b6f514cd9ff2f13a7/SCREENSHOT%20OF%20IDENTIFYING%20TOP%20RECORDS.PNG)
 
 
 
