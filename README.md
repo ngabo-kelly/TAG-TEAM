@@ -13,7 +13,7 @@ For this project, we are using a fictional **Employee Salary Dataset**. The data
 - `hire_date` (DATE)
 
     `THE SCREENSHOT OF DATASET THAT IS CREATED`
-  ![image alt](
+  ![image alt](https://github.com/ngabo-kelly/TAG-TEAM/blob/d5b38a5fb545d15a342614f2923b287ef48423cf/SCREENSHOT%20OF%20DATASET.PNG)
   
 
 This dataset simulates employee salary data across different departments and hiring timelines.
