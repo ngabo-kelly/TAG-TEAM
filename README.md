@@ -35,6 +35,7 @@ Each section includes queries and explanations.
 **Goal:** Compare an employee's salary with the previous and next employee in terms of salary order within each department.
 
 ### Query
+![image alt](
 
 
 
@@ -50,6 +51,7 @@ Each section includes queries and explanations.
 **Goal:** Rank employees by salary within their departments using `RANK()` and `DENSE_RANK()`.
 
 ### Query
+![image alt](
 
 
 
@@ -66,6 +68,7 @@ Each section includes queries and explanations.
 **Goal:** Get the **Top 3 highest salaries** in each department.
 
 ### Query
+![image alt](
 
 
 
@@ -81,6 +84,7 @@ Each section includes queries and explanations.
 **Goal:** Get the first **2 employees hired** in each department based on `hire_date`.
 
 ###  Query
+![image alt](
 
 
 
@@ -98,6 +102,7 @@ Each section includes queries and explanations.
 - Overall maximum salary across all departments.
 
 ###  Query
+![image alt](
 
 
 
