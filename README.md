@@ -1,4 +1,4 @@
-# TAG-TEAM 
+## TAG-TEAM 
 
 # SQL Window Functions Project
 
@@ -127,7 +127,9 @@ This project showcases the power of SQL window functions to analyze and compare 
 - Ranking (RANK/DENSE_RANK)  
 - Top-N filtering  
 - Date-based selection  
-- Aggregation with partitioning  
+- Aggregation with partitioning
+
+  ---
 
 ### THANK U 
 
