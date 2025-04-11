@@ -12,7 +12,7 @@ For this project, we are using a fictional **Employee Salary Dataset**. The data
 - `salary` (INT)  
 - `hire_date` (DATE)
 
-    ##THE SCREENSHOT OF DATASET THAT IS CREATED ##
+    ## THE SCREENSHOT OF DATASET THAT IS CREATED ##
   
 
   
